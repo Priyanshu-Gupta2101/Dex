@@ -1,4 +1,5 @@
 # Dex: Hand Gesture Recognition for Online Meetings
+## Deprecated needs to be updated
 
 Dex is a system that leverages hand gesture recognition to enhance the user experience during online meetings, such as Zoom or Google Meet. With Dex, users can express reactions and interact in a more dynamic way by using hand gestures.
 
